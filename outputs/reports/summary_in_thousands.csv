@@ -1,0 +1,179 @@
+section,label,metric,value,unit
+overview,all users,total_spend,37263.11,INR thousands
+overview,all users,avg_transaction,2.30,INR thousands
+overview,all users,avg_monthly_spend_per_user,62.11,INR thousands
+overview,all users,monthly_budget_per_user,53.50,INR thousands
+overview,all users,avg_monthly_income_per_user,68.98,INR thousands
+overview,all users,transactions,16179,count
+overview,all users,users,50,count
+category,Rent & Utilities,total_spend,10326.93,INR thousands
+category,Rent & Utilities,share_pct,27.71,percent
+category,Rent & Utilities,transactions,571,count
+category,Travel,total_spend,5538.53,INR thousands
+category,Travel,share_pct,14.86,percent
+category,Travel,transactions,651,count
+category,Food & Dining,total_spend,5472.48,INR thousands
+category,Food & Dining,share_pct,14.69,percent
+category,Food & Dining,transactions,5259,count
+category,Shopping,total_spend,4098.35,INR thousands
+category,Shopping,share_pct,11.00,percent
+category,Shopping,transactions,840,count
+category,Groceries,total_spend,3377.84,INR thousands
+category,Groceries,share_pct,9.06,percent
+category,Groceries,transactions,1721,count
+category,Transport,total_spend,2631.10,INR thousands
+category,Transport,share_pct,7.06,percent
+category,Transport,transactions,4066,count
+category,Education,total_spend,1751.80,INR thousands
+category,Education,share_pct,4.70,percent
+category,Education,transactions,624,count
+category,Entertainment,total_spend,1633.48,INR thousands
+category,Entertainment,share_pct,4.38,percent
+category,Entertainment,transactions,1174,count
+category,Health,total_spend,1380.42,INR thousands
+category,Health,share_pct,3.70,percent
+category,Health,transactions,625,count
+category,Miscellaneous,total_spend,1052.18,INR thousands
+category,Miscellaneous,share_pct,2.82,percent
+category,Miscellaneous,transactions,648,count
+budget,Education,monthly_budget,1.50,INR thousands
+budget,Education,avg_monthly_per_user,2.92,INR thousands
+budget,Education,variance,1.42,INR thousands
+budget,Education,variance_pct,94.64,percent
+budget,Travel,monthly_budget,5.00,INR thousands
+budget,Travel,avg_monthly_per_user,9.23,INR thousands
+budget,Travel,variance,4.23,INR thousands
+budget,Travel,variance_pct,84.62,percent
+budget,Miscellaneous,monthly_budget,1.50,INR thousands
+budget,Miscellaneous,avg_monthly_per_user,1.75,INR thousands
+budget,Miscellaneous,variance,0.25,INR thousands
+budget,Miscellaneous,variance_pct,16.91,percent
+budget,Health,monthly_budget,2.00,INR thousands
+budget,Health,avg_monthly_per_user,2.30,INR thousands
+budget,Health,variance,0.30,INR thousands
+budget,Health,variance_pct,15.03,percent
+budget,Food & Dining,monthly_budget,8.00,INR thousands
+budget,Food & Dining,avg_monthly_per_user,9.12,INR thousands
+budget,Food & Dining,variance,1.12,INR thousands
+budget,Food & Dining,variance_pct,14.01,percent
+budget,Shopping,monthly_budget,6.00,INR thousands
+budget,Shopping,avg_monthly_per_user,6.83,INR thousands
+budget,Shopping,variance,0.83,INR thousands
+budget,Shopping,variance_pct,13.84,percent
+budget,Groceries,monthly_budget,5.00,INR thousands
+budget,Groceries,avg_monthly_per_user,5.63,INR thousands
+budget,Groceries,variance,0.63,INR thousands
+budget,Groceries,variance_pct,12.59,percent
+budget,Transport,monthly_budget,4.00,INR thousands
+budget,Transport,avg_monthly_per_user,4.39,INR thousands
+budget,Transport,variance,0.39,INR thousands
+budget,Transport,variance_pct,9.63,percent
+budget,Entertainment,monthly_budget,2.50,INR thousands
+budget,Entertainment,avg_monthly_per_user,2.72,INR thousands
+budget,Entertainment,variance,0.22,INR thousands
+budget,Entertainment,variance_pct,8.90,percent
+budget,Rent & Utilities,monthly_budget,18.00,INR thousands
+budget,Rent & Utilities,avg_monthly_per_user,17.21,INR thousands
+budget,Rent & Utilities,variance,-0.79,INR thousands
+budget,Rent & Utilities,variance_pct,-4.38,percent
+monthly,2025-10,total_spend,3080.47,INR thousands
+monthly,2025-10,budget,2675.00,INR thousands
+monthly,2025-10,income,3448.96,INR thousands
+monthly,2025-10,savings,368.49,INR thousands
+monthly,2025-10,savings_rate_pct,10.68,percent
+monthly,2025-11,total_spend,3782.57,INR thousands
+monthly,2025-11,budget,2675.00,INR thousands
+monthly,2025-11,income,3448.96,INR thousands
+monthly,2025-11,savings,-333.61,INR thousands
+monthly,2025-11,savings_rate_pct,-9.67,percent
+monthly,2025-12,total_spend,3075.43,INR thousands
+monthly,2025-12,budget,2675.00,INR thousands
+monthly,2025-12,income,3448.96,INR thousands
+monthly,2025-12,savings,373.53,INR thousands
+monthly,2025-12,savings_rate_pct,10.83,percent
+monthly,2026-01,total_spend,2917.90,INR thousands
+monthly,2026-01,budget,2675.00,INR thousands
+monthly,2026-01,income,3448.96,INR thousands
+monthly,2026-01,savings,531.06,INR thousands
+monthly,2026-01,savings_rate_pct,15.40,percent
+monthly,2026-02,total_spend,2939.41,INR thousands
+monthly,2026-02,budget,2675.00,INR thousands
+monthly,2026-02,income,3448.96,INR thousands
+monthly,2026-02,savings,509.55,INR thousands
+monthly,2026-02,savings_rate_pct,14.77,percent
+monthly,2026-03,total_spend,3996.84,INR thousands
+monthly,2026-03,budget,2675.00,INR thousands
+monthly,2026-03,income,3448.96,INR thousands
+monthly,2026-03,savings,-547.88,INR thousands
+monthly,2026-03,savings_rate_pct,-15.89,percent
+monthly,2026-04,total_spend,3098.17,INR thousands
+monthly,2026-04,budget,2675.00,INR thousands
+monthly,2026-04,income,3448.96,INR thousands
+monthly,2026-04,savings,350.79,INR thousands
+monthly,2026-04,savings_rate_pct,10.17,percent
+monthly,2026-05,total_spend,2747.57,INR thousands
+monthly,2026-05,budget,2675.00,INR thousands
+monthly,2026-05,income,3448.96,INR thousands
+monthly,2026-05,savings,701.39,INR thousands
+monthly,2026-05,savings_rate_pct,20.34,percent
+monthly,2026-06,total_spend,2829.60,INR thousands
+monthly,2026-06,budget,2675.00,INR thousands
+monthly,2026-06,income,3448.96,INR thousands
+monthly,2026-06,savings,619.36,INR thousands
+monthly,2026-06,savings_rate_pct,17.96,percent
+monthly,2026-07,total_spend,3077.71,INR thousands
+monthly,2026-07,budget,2675.00,INR thousands
+monthly,2026-07,income,3448.96,INR thousands
+monthly,2026-07,savings,371.25,INR thousands
+monthly,2026-07,savings_rate_pct,10.76,percent
+monthly,2026-08,total_spend,2793.03,INR thousands
+monthly,2026-08,budget,2675.00,INR thousands
+monthly,2026-08,income,3448.96,INR thousands
+monthly,2026-08,savings,655.93,INR thousands
+monthly,2026-08,savings_rate_pct,19.02,percent
+monthly,2026-09,total_spend,2924.41,INR thousands
+monthly,2026-09,budget,2675.00,INR thousands
+monthly,2026-09,income,3448.96,INR thousands
+monthly,2026-09,savings,524.55,INR thousands
+monthly,2026-09,savings_rate_pct,15.21,percent
+segment,Moderate spender,total_spend,19507.96,INR thousands
+segment,Moderate spender,spend_per_user,650.27,INR thousands
+segment,Moderate spender,users,30,count
+segment,Moderate spender,share_pct,52.35,percent
+segment,Heavy spender,total_spend,13956.55,INR thousands
+segment,Heavy spender,spend_per_user,1550.73,INR thousands
+segment,Heavy spender,users,9,count
+segment,Heavy spender,share_pct,37.45,percent
+segment,Light spender,total_spend,3798.60,INR thousands
+segment,Light spender,spend_per_user,345.33,INR thousands
+segment,Light spender,users,11,count
+segment,Light spender,share_pct,10.19,percent
+merchant,Airbnb,total_spend,1233.55,INR thousands
+merchant,Airbnb,transactions,146,count
+merchant,IRCTC,total_spend,1214.93,INR thousands
+merchant,IRCTC,transactions,138,count
+merchant,IndiGo,total_spend,1167.01,INR thousands
+merchant,IndiGo,transactions,135,count
+merchant,Local Cafe,total_spend,1117.19,INR thousands
+merchant,Local Cafe,transactions,1051,count
+merchant,Dominos,total_spend,1110.60,INR thousands
+merchant,Dominos,transactions,1067,count
+merchant,Starbucks,total_spend,1089.14,INR thousands
+merchant,Starbucks,transactions,1071,count
+merchant,Zomato,total_spend,1079.55,INR thousands
+merchant,Zomato,transactions,1042,count
+merchant,Swiggy,total_spend,1076.01,INR thousands
+merchant,Swiggy,transactions,1028,count
+merchant,Yatra,total_spend,1000.45,INR thousands
+merchant,Yatra,transactions,123,count
+merchant,MakeMyTrip,total_spend,922.58,INR thousands
+merchant,MakeMyTrip,transactions,109,count
+merchant,Amazon,total_spend,921.73,INR thousands
+merchant,Amazon,transactions,192,count
+merchant,Decathlon,total_spend,840.85,INR thousands
+merchant,Decathlon,transactions,182,count
+anomaly,all users,user_day_anomalies,657,count
+anomaly,all users,users_flagged,46,count
+anomaly,all users,burn_rate_30d_per_user,44.28,INR thousands
+anomaly,all users,variable_budget_per_user,35.50,INR thousands
+anomaly,all users,burn_vs_variable_budget_pct,124.73,percent
